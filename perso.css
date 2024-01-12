@@ -1,0 +1,22 @@
+#fond1 {
+    background: no-repeat center url(img/da\ baby.jpg);
+    background-size: cover;
+}
+
+#fond2 {
+    background: no-repeat center url(img/fille.jpg);
+    background-size: cover;
+}
+#fond3 {
+    background: no-repeat center url(img/dj.jpg);
+    background-size: cover;
+}
+
+
+.hover-zoom {
+    transition: transform 0.3s ease-in-out;
+}
+
+.hover-zoom:hover {
+    transform: scale(1.2); 
+}
